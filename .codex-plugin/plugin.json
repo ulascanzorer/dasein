@@ -1,0 +1,16 @@
+{
+  "name": "dasein",
+  "version": "0.1.0",
+  "description": "Incorporates the being of Dasein (Heidegger) into an LLM's reasoning and responses.",
+  "author": { "name": "Ulaş Can Zorer", "url": "https://github.com/ulascanzorer/dasein" },
+  "homepage": "https://github.com/ulascanzorer/dasein",
+  "repository": "https://github.com/ulascanzorer/dasein",
+  "license": "MIT",
+  "keywords": ["philosophy", "heidegger", "dasein", "persona", "reasoning"],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Dasein",
+    "shortDescription": "A Heideggerian (Dasein) lens for an LLM's reasoning and responses.",
+    "category": "Other"
+  }
+}

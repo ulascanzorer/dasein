@@ -1,0 +1,10 @@
+{
+  "name": "dasein",
+  "version": "0.1.0",
+  "description": "Incorporates the being of Dasein (Heidegger) into an LLM's reasoning and responses.",
+  "author": { "name": "Ulaş Can Zorer", "email": "ulascanzorer@gmail.com" },
+  "homepage": "https://github.com/ulascanzorer/dasein",
+  "repository": "https://github.com/ulascanzorer/dasein",
+  "license": "MIT",
+  "keywords": ["philosophy", "heidegger", "dasein", "persona", "reasoning"]
+}

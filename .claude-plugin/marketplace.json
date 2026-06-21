@@ -1,0 +1,11 @@
+{
+  "name": "dasein",
+  "owner": { "name": "Ulaş Can Zorer", "email": "ulascanzorer@gmail.com" },
+  "plugins": [
+    {
+      "name": "dasein",
+      "source": "./",
+      "description": "Incorporates the being of Dasein (Heidegger) into an LLM's reasoning and responses."
+    }
+  ]
+}
